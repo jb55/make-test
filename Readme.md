@@ -1,5 +1,4 @@
-
-# make-test
+# mk-test
 
  Make `test` target for running mocha tests.
 
