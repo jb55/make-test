@@ -1,6 +1,6 @@
 # mk-test
 
- Make `test` target for running mocha tests with `--require should`
+ Make `test` target for running mocha tests without `--require should`
 
 ## Usage
 
