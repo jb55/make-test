@@ -1,10 +1,10 @@
 {
-  "name": "make-test",
+  "name": "mk-test",
   "version": "0.1.0",
-  "description": "test target for running mocha tests",
+  "description": "test target for running mocha tests without should",
   "repository": {
     "type": "git",
-    "url": "git://github.com/visionmedia/make-test.git"
+    "url": "git://github.com/jb55/mk-test.git"
   },
   "keywords": [
     "make",
