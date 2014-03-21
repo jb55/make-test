@@ -5,5 +5,5 @@
 ## Usage
 
 ```make
-include node_modules/make-test/index.mk
+include node_modules/mk-test/index.mk
 ```
